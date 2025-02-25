@@ -115,14 +115,14 @@ This project was created using the following technologies.
  ##  Screenshots 
  
 
-![1](https://github.com/user-attachments/assets/b282b26c-a635-4738-ac77-43dfa2c28f8d)
+![1](https://github.com/akashkus121/Thought-Loom/blob/main/Frontend/img%201.png)
 ---- -
-![2](https://github.com/user-attachments/assets/7075aa1a-9959-4171-bc5b-e01a1d36e3d4)
+![2](https://github.com/akashkus121/Thought-Loom/blob/main/Frontend/img%202.png)
 --- - 
-![3](https://github.com/user-attachments/assets/a729ae3b-bdb6-4f29-9e29-afaa8c02553a)
+![3](https://github.com/akashkus121/Thought-Loom/blob/main/Frontend/img%203.png)
 
 --- - 
-![4](https://github.com/user-attachments/assets/0040b56b-ad77-4ff2-a7d9-d197e41bf14e)
+![4](https://github.com/akashkus121/Thought-Loom/blob/main/Frontend/img%204.png)
 
 --- - 
 ![5](https://github.com/user-attachments/assets/6e25d23e-7d85-4928-8205-b02a33a709e8)
