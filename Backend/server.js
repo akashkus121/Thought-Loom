@@ -28,6 +28,11 @@ app.use(cors());
 
 app.use("/", IndexRoute);
 
+app.get("/", (req, res) => {
+  res.send("Hello World");
+}
+);
+
 // Custom error handler
 app.use(customErrorHandler);
 
